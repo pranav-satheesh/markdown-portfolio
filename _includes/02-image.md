@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Invincible Season 1 promo](https://deadline.com/wp-content/uploads/2021/01/Invincible-2.jpg)
